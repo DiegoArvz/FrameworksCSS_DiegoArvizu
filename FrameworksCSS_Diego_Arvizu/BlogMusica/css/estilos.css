@@ -1,0 +1,52 @@
+
+.logo-header{
+  min-height: 50px;
+}
+
+.imglogo{
+  width: 50px;
+  padding-top: 10px;
+  padding-left: 10px;
+  height: 100%;
+}
+
+.media-icon{
+  height: 30px;
+  width: 30px;
+  float: right;
+  padding-left: 5px;
+  padding-right: 5px;
+
+}
+
+.social-media{
+  margin-top: 30px;
+}
+
+.navbar-nav{
+  display: block;
+  margin: 0 27%;
+}
+
+@media only screen and (max-width: 500px) {
+  .media-icon{
+    float: none;
+  }
+
+  .social-media{
+    padding: 0px 0px 0px 150px;
+
+  }
+
+  .navbar-nav{
+    margin: 0px 0px 0px 155px;
+  }
+}
+
+.nav>li{
+  margin: 0px 5px;
+}
+
+.container-fluid{
+  padding: 0px 0px 0px 0px;
+}

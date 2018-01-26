@@ -1,0 +1,28 @@
+.container{
+  background-image: url(../img/background.jpg);
+}
+
+.bg-color{background-color: rgba(0, 0, 255, 0.3);}
+
+.search-icon{
+  font-size:1.8rem;
+  margin-right: 10px;
+}
+
+.menu-list > li {
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.pizza-img{
+  margin: 6px 4px 8px 6px;
+  border-radius: 10px;
+}
+
+.left-header, .right-header{
+  min-height: 150px;
+}
+
+.user-img{
+  height: 25px;
+}
